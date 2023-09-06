@@ -1,0 +1,19 @@
+{
+  "name": "np-suppot-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nb-support.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nguyen-Van-Thuan/np-suppot-shopify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nguyen-Van-Thuan/np-suppot-shopify/issues"
+  },
+  "homepage": "https://github.com/Nguyen-Van-Thuan/np-suppot-shopify#readme"
+}
